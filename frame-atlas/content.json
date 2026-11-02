@@ -1,0 +1,1473 @@
+{
+ "site": "Frame Atlas",
+ "tint": [
+  "#fcfcfb",
+  "#eef2ff",
+  "#fff1e8",
+  "#eaf8f3",
+  "#f4f0ff",
+  "#e6ecff"
+ ],
+ "home": {
+  "title": "Frame Atlas — Cinema, taken apart",
+  "lines": [
+   "Cinema,",
+   "taken",
+   "apart."
+  ],
+  "intro": "A visual guide to how films are directed, shot, staged and built, one frame at a time.",
+  "mq": "Directing ✦ Stunts ✦ Behind the scenes ✦ Methods ✦ Cinema facts ✦",
+  "mf": "Every great film is thousands of invisible decisions: where the camera stands, how the light falls, who risks the fall, and what the director chose not to show.",
+  "stats": [
+   [
+    1895,
+    "first paid public film screening, Paris"
+   ],
+   [
+    24,
+    "frames a second since the sound era"
+   ],
+   [
+    1976,
+    "Steadicam changes camera movement"
+   ],
+   [
+    2019,
+    "LED volumes reshape the film set"
+   ]
+  ],
+  "quote": [
+   "Learn to see",
+   "the decisions",
+   "behind the frame."
+  ],
+  "cite": "A Frame Atlas principle",
+  "end": [
+   "Pick a chapter,",
+   "press",
+   "play."
+  ],
+  "cta": "Start with Direction",
+  "story": [
+   "This atlas is built like a film: chapters, a few interactive tools and plain language. Start anywhere.",
+   "Every chapter ends with a pointer to the next, so you can read it as one long take or jump between scenes."
+  ],
+  "gloss": [
+   [
+    "Take",
+    "One recorded attempt at a shot."
+   ],
+   [
+    "Coverage",
+    "Extra angles for editing choices."
+   ],
+   [
+    "Blocking",
+    "Planned movement within a scene."
+   ],
+   [
+    "Wrap",
+    "The end of filming."
+   ]
+  ],
+  "hue": 232,
+  "r": "28px",
+  "sep": "✦",
+  "pre": "rolling camera",
+  "badge": "SCROLL TO EXPLORE ·",
+  "scope": "The frame widens from 2.39:1 to full screen as you scroll",
+  "sh": [
+   "Read the",
+   "scene"
+  ],
+  "gh": [
+   "Words on",
+   "set"
+  ],
+  "nh": [
+   "Field",
+   "notes"
+  ],
+  "dh": [
+   "Try it",
+   "yourself"
+  ],
+  "mh": [
+   "The",
+   "reel"
+  ],
+  "hs": "std",
+  "tx": "diag2",
+  "rv": "rise",
+  "pv": "clip",
+  "fx": "mosaic",
+  "scene": "home",
+  "pm": "drift",
+  "hud": "REC",
+  "mt": [
+   "The showreel",
+   "Light study",
+   "Frame test",
+   "Set at dusk"
+  ],
+  "slug": "index",
+  "short": "Atlas",
+  "name": "Frame Atlas",
+  "art": "radial-gradient(circle at 25% 25%,#ffd9a8,transparent 50%),radial-gradient(circle at 80% 70%,#ff9f8a,transparent 55%),linear-gradient(135deg,#ffe6d4,#c9d4ff)",
+  "q": {
+   "video": "film set behind the scenes",
+   "photos": [
+    "cinema camera lens",
+    "director chair film set",
+    "cinema projector light beam"
+   ]
+  }
+ },
+ "pages": [
+  {
+   "slug": "direction",
+   "name": "Direction",
+   "short": "Direction",
+   "card": "Vision, blocking,<br>performance",
+   "art": "radial-gradient(circle at 25% 25%,#ffd9a8,transparent 50%),radial-gradient(circle at 80% 70%,#ff9f8a,transparent 55%),linear-gradient(135deg,#ffe6d4,#c9d4ff)",
+   "title": "Direction — Frame Atlas",
+   "lines": [
+    "Direction",
+    "is a point",
+    "of view."
+   ],
+   "intro": "How directors turn a script into a point of view, through blocking, lenses, performance and restraint.",
+   "mq": "Blocking ✦ Lenses ✦ Performance ✦ Rehearsal ✦ Tone ✦",
+   "mf": "A director’s vision is the thousand small answers to one question: what should the audience feel, and when?",
+   "notes": [
+    [
+     "The dolly zoom",
+     "Hitchcock’s Vertigo (1958) pulled the camera back while zooming in, bending space so a character’s dizziness becomes the audience’s."
+    ],
+    [
+     "Hiding the monster",
+     "When the mechanical shark kept failing, Spielberg showed it as little as possible in Jaws. The suspense worked better than the effect would have."
+    ],
+    [
+     "Many cameras, one take",
+     "Kurosawa filmed the battles in Seven Samurai with several cameras at once, capturing chaos that could not be repeated."
+    ],
+    [
+     "Obsessive retakes",
+     "Kubrick demanded repeated takes. The bat scene in The Shining is widely reported at 127, a recognised record."
+    ]
+   ],
+   "stats": [
+    [
+     127,
+     "reported takes for one scene in The Shining"
+    ],
+    [
+     1958,
+     "the year Vertigo introduced the dolly zoom"
+    ],
+    [
+     24,
+     "frames a second, each one a decision"
+    ],
+    [
+     3,
+     "questions behind every shot: where, why, how"
+    ]
+   ],
+   "quote": [
+    "A shot is an",
+    "argument about",
+    "where to look."
+   ],
+   "cite": "Notes from a director’s notebook",
+   "story": [
+    "Directors work in layers. First comes the script, then the visual plan: storyboards, shot lists and rehearsals that decide where each camera will stand.",
+    "On set, blocking decides how actors move through space. A step toward the camera or a pause in a doorway can say more than a page of dialogue."
+   ],
+   "gloss": [
+    [
+     "Blocking",
+     "Planned movement of actors and camera."
+    ],
+    [
+     "Coverage",
+     "Extra angles shot so editors have choices."
+    ],
+    [
+     "Mise-en-scène",
+     "Everything placed inside the frame."
+    ],
+    [
+     "Shot list",
+     "The director’s ordered plan of shots."
+    ]
+   ],
+   "hue": 346,
+   "r": "4px",
+   "sep": "●",
+   "pre": "reading the script",
+   "badge": "FOLLOW THE VISION ·",
+   "scope": "From script page to frame: the director’s window",
+   "sh": [
+    "Seeing like",
+    "a director"
+   ],
+   "gh": [
+    "Director’s",
+    "vocabulary"
+   ],
+   "nh": [
+    "Four ideas",
+    "from directors"
+   ],
+   "dh": [
+    "",
+    ""
+   ],
+   "mh": [
+    "The",
+    "rehearsal room"
+   ],
+   "end": [
+    "Take two:",
+    "{n}",
+    "awaits."
+   ],
+   "cta": "Cut to {n}",
+   "hs": "std",
+   "tx": "up",
+   "rv": "mask",
+   "pv": "wipe",
+   "fx": "curtain",
+   "scene": "frames",
+   "pm": "rise",
+   "hud": "TAKE 1",
+   "mt": [
+    "Rehearsal reel",
+    "Blocking study",
+    "Lens test",
+    "Script to storyboard"
+   ],
+   "q": {
+    "video": "film director on set",
+    "photos": [
+     "film director megaphone",
+     "storyboard drawing",
+     "film crew monitor"
+    ]
+   }
+  },
+  {
+   "slug": "camera-movements",
+   "name": "Camera movements",
+   "short": "Camera",
+   "card": "Dolly, crane,<br>whip pan",
+   "art": "linear-gradient(135deg,#c9f0ff,#e9d8ff)",
+   "title": "Camera movements — Frame Atlas",
+   "lines": [
+    "Where the",
+    "camera goes,",
+    "we go."
+   ],
+   "intro": "Dolly, pan, tilt, crane, whip pan and handheld: what each movement does to the viewer, with a live camera to play with.",
+   "mq": "Dolly ✦ Pan ✦ Tilt ✦ Crane ✦ Whip pan ✦ Handheld ✦",
+   "mf": "A camera move is a decision about who is in control: the character, the audience or the filmmaker.",
+   "notes": [
+    [
+     "Pan and tilt",
+     "The camera pivots on a fixed point, turning left-right or up-down, like a head turning to look."
+    ],
+    [
+     "Dolly and truck",
+     "The whole camera travels on wheels or track. Near things move faster than far things, so the move reveals real depth."
+    ],
+    [
+     "Crane and jib",
+     "A boom lifts the camera through space for rising reveals, from a face to the whole city around it."
+    ],
+    [
+     "Handheld",
+     "Operators carry the camera by hand to add urgency and instability, common in war films and documentaries."
+    ]
+   ],
+   "stats": [
+    [
+     1958,
+     "dolly zoom debuts in Vertigo"
+    ],
+    [
+     1976,
+     "Steadicam makes smooth handheld possible"
+    ],
+    [
+     96,
+     "minutes of unbroken movement in Russian Ark"
+    ],
+    [
+     360,
+     "degrees in a full orbit around a subject"
+    ]
+   ],
+   "quote": [
+    "Movement is",
+    "the camera",
+    "having an opinion."
+   ],
+   "cite": "Overheard on the dolly track",
+   "story": [
+    "Choose a move by asking what the audience should feel. A slow push in builds intimacy or dread, a pull back reveals isolation, and a rising crane gives a sense of scale.",
+    "Planning matters as much as the move itself. Tracks must be levelled and laid, focus pullers rehearse distances, and actors hit marks so the shot lands once, smoothly."
+   ],
+   "gloss": [
+    [
+     "Dolly",
+     "Wheeled platform that moves the camera."
+    ],
+    [
+     "Pedestal",
+     "Raising or lowering the camera vertically."
+    ],
+    [
+     "Whip pan",
+     "Very fast pan that blurs the image."
+    ],
+    [
+     "Dutch angle",
+     "Tilted horizon for unease."
+    ]
+   ],
+   "demo": "camera",
+   "hue": 218,
+   "r": "28px",
+   "sep": "→",
+   "pre": "laying the track",
+   "badge": "KEEP IT ROLLING ·",
+   "scope": "The lens opens onto a moving world",
+   "sh": [
+    "A move,",
+    "explained"
+   ],
+   "gh": [
+    "Camera",
+    "speak"
+   ],
+   "nh": [
+    "Four ways",
+    "to move"
+   ],
+   "dh": [
+    "Operate the",
+    "camera"
+   ],
+   "mh": [
+    "On",
+    "location"
+   ],
+   "end": [
+    "Track on to",
+    "{n},",
+    "smoothly."
+   ],
+   "cta": "Track to {n}",
+   "hs": "wide",
+   "tx": "left",
+   "rv": "slide",
+   "pv": "slide",
+   "fx": "pan",
+   "scene": "rig",
+   "pm": "streak",
+   "hud": "TRACK",
+   "mt": [
+    "Dolly reel",
+    "Crane rise",
+    "Handheld pass",
+    "Track and truck"
+   ],
+   "q": {
+    "video": "camera dolly track filming",
+    "photos": [
+     "camera crane jib",
+     "steadicam operator",
+     "cinema camera rig"
+    ]
+   }
+  },
+  {
+   "slug": "lenses-framing",
+   "name": "Lenses & framing",
+   "short": "Lenses",
+   "card": "Shot size,<br>focal length",
+   "art": "radial-gradient(circle at 50% 50%,#fff,#ffe0c2 40%,#ffb8a0)",
+   "title": "Lenses & framing — Frame Atlas",
+   "lines": [
+    "Frame it",
+    "like you",
+    "mean it."
+   ],
+   "intro": "Shot sizes, focal length, depth of field and composition, with a lens you can adjust yourself.",
+   "mq": "Wide ✦ Close-up ✦ Focal length ✦ Depth of field ✦ Composition ✦",
+   "mf": "A lens is a choice about distance: how near we feel to a character, and how much of their world we see.",
+   "notes": [
+    [
+     "Shot sizes",
+     "From extreme wide to extreme close-up, shot size controls how close we feel to a character."
+    ],
+    [
+     "Focal length",
+     "Wide lenses stretch space and exaggerate depth; telephoto lenses compress distance and flatten it."
+    ],
+    [
+     "Depth of field",
+     "Shallow focus isolates a subject; deep focus keeps near and far sharp, as in Citizen Kane (1941)."
+    ],
+    [
+     "Thirds and the 180° line",
+     "Off-centre subjects feel natural, and staying on one side of an imaginary line keeps screen direction clear."
+    ]
+   ],
+   "stats": [
+    [
+     1941,
+     "Citizen Kane’s deep-focus cinematography"
+    ],
+    [
+     180,
+     "degree rule keeps screen direction clear"
+    ],
+    [
+     9,
+     "cells in the rule-of-thirds grid"
+    ],
+    [
+     135,
+     "mm, a classic portrait telephoto lens"
+    ]
+   ],
+   "quote": [
+    "A lens is a",
+    "choice about",
+    "distance."
+   ],
+   "cite": "Scribbled on a focus chart",
+   "story": [
+    "Lenses change emotion without changing the actor. A wide lens close to a face feels distorted and anxious, while a long lens from far away feels observed and cool.",
+    "Composition guides the eye before anyone notices. Leading lines, foreground frames and empty space all tell the audience where to look and how to feel about it."
+   ],
+   "gloss": [
+    [
+     "Prime lens",
+     "Fixed focal length, usually sharper."
+    ],
+    [
+     "Anamorphic",
+     "Squeezed lenses giving a wide frame."
+    ],
+    [
+     "Bokeh",
+     "Look of out-of-focus highlights."
+    ],
+    [
+     "Headroom",
+     "Space above a subject’s head."
+    ]
+   ],
+   "demo": "shots",
+   "hue": 36,
+   "r": "60px",
+   "sep": "◎",
+   "pre": "pulling focus",
+   "badge": "PULL FOCUS ·",
+   "scope": "Aspect ratio is a lens choice too",
+   "sh": [
+    "Through",
+    "the glass"
+   ],
+   "gh": [
+    "Lens",
+    "language"
+   ],
+   "nh": [
+    "Four ways",
+    "to frame"
+   ],
+   "dh": [
+    "Pick a",
+    "lens"
+   ],
+   "mh": [
+    "Through the",
+    "viewfinder"
+   ],
+   "end": [
+    "Refocus on",
+    "{n},",
+    "softly."
+   ],
+   "cta": "Focus on {n}",
+   "hs": "serif",
+   "tx": "circle",
+   "rv": "blur",
+   "pv": "scale",
+   "fx": "iris",
+   "scene": "iris",
+   "pm": "bokeh",
+   "hud": "f/2.8",
+   "mt": [
+    "Focus-pull reel",
+    "Wide-angle test",
+    "Portrait telephoto",
+    "Depth-of-field chart"
+   ],
+   "q": {
+    "video": "camera lens focus close up",
+    "photos": [
+     "cinema lens close up",
+     "camera aperture blades",
+     "bokeh city lights"
+    ]
+   }
+  },
+  {
+   "slug": "lighting",
+   "name": "Light & colour",
+   "short": "Light",
+   "card": "Key, fill,<br>colour",
+   "art": "linear-gradient(160deg,#fff7d6,#ffd1b8 55%,#b9c6ff)",
+   "title": "Light & colour — Frame Atlas",
+   "lines": [
+    "Paint with",
+    "light and",
+    "shadow."
+   ],
+   "intro": "High-key, low-key, Rembrandt and backlight, plus colour temperature, with a light rig you can drag.",
+   "mq": "Key ✦ Fill ✦ Backlight ✦ Colour temperature ✦ Practicals ✦",
+   "mf": "Light is the first actor on set: it decides mood before anyone speaks.",
+   "notes": [
+    [
+     "High-key and low-key",
+     "High-key is bright and even, common in comedy; low-key is contrasty with deep shadows, the look of film noir."
+    ],
+    [
+     "Rembrandt lighting",
+     "A small triangle of light on the shadowed cheek, borrowed from the painter, gives faces depth and drama."
+    ],
+    [
+     "Colour temperature",
+     "Daylight reads cool and blue, tungsten reads warm and orange; filmmakers mix them to separate worlds."
+    ],
+    [
+     "Practical lights",
+     "Lamps and neon visible in the frame also light the scene, making rooms feel lived in."
+    ]
+   ],
+   "stats": [
+    [
+     3,
+     "lights in the classic three-point setup"
+    ],
+    [
+     5600,
+     "kelvin, a standard daylight colour temperature"
+    ],
+    [
+     3200,
+     "kelvin, standard tungsten warmth"
+    ],
+    [
+     2000,
+     "O Brother is the first fully digitally graded feature"
+    ]
+   ],
+   "quote": [
+    "Shadow is",
+    "half the",
+    "picture."
+   ],
+   "cite": "Taped to a lamp",
+   "story": [
+    "Start with one light. Place the key where the sun or a window would be, then ask what the shadows are doing. Fill, backlight and colour are added only to serve that first idea.",
+    "Cinematographers often light for the emotional truth of a scene rather than strict realism, letting a window glow brighter than it should so a face can glow with it."
+   ],
+   "gloss": [
+    [
+     "Gobo",
+     "Cutout that shapes light into patterns."
+    ],
+    [
+     "Diffusion",
+     "Material that softens a light."
+    ],
+    [
+     "Magic hour",
+     "Soft light just after sunset."
+    ],
+    [
+     "Bounce",
+     "Reflecting light from a surface."
+    ]
+   ],
+   "demo": "light",
+   "hue": 52,
+   "r": "18px",
+   "sep": "☼",
+   "pre": "striking the lamps",
+   "badge": "FOLLOW THE LIGHT ·",
+   "scope": "Darkness frames the glow",
+   "sh": [
+    "Studying",
+    "shadow"
+   ],
+   "gh": [
+    "Lighting",
+    "terms"
+   ],
+   "nh": [
+    "Four ways",
+    "to light"
+   ],
+   "dh": [
+    "Rig your",
+    "own light"
+   ],
+   "mh": [
+    "Studio",
+    "light tests"
+   ],
+   "end": [
+    "Dim the room,",
+    "open on",
+    "{n}."
+   ],
+   "cta": "Switch on {n}",
+   "hs": "serifl",
+   "tx": "fade",
+   "rv": "fadeup",
+   "pv": "blur",
+   "fx": "spot",
+   "scene": "beam",
+   "pm": "rise",
+   "hud": "5600K",
+   "mt": [
+    "Lighting reel",
+    "Key light test",
+    "Low-key portrait",
+    "Backlit silhouette"
+   ],
+   "q": {
+    "video": "studio lighting film set",
+    "photos": [
+     "film light stand softbox",
+     "dramatic portrait lighting",
+     "spotlight stage light"
+    ]
+   }
+  },
+  {
+   "slug": "editing-sound",
+   "name": "Editing & sound",
+   "short": "The cut",
+   "card": "Cuts, rhythm,<br>sound",
+   "art": "linear-gradient(135deg,#d6ffe9,#b8e0ff)",
+   "title": "Editing & sound — Frame Atlas",
+   "lines": [
+    "Cut,",
+    "then",
+    "listen."
+   ],
+   "intro": "Cut types, rhythm, montage and sound design, with a transition lab where you can try every cut.",
+   "mq": "Hard cut ✦ Match cut ✦ L-cut ✦ Montage ✦ Foley ✦ Mix ✦",
+   "mf": "Editing is where the film is finally made: the same footage can become a different story.",
+   "notes": [
+    [
+     "The match cut",
+     "2001: A Space Odyssey (1968) cuts from a thrown bone to an orbiting satellite, linking millions of years in one edit."
+    ],
+    [
+     "The hard cut",
+     "The default: an instant switch that, when done well, the audience never notices."
+    ],
+    [
+     "L-cut and J-cut",
+     "Sound from the next scene begins before the picture changes, or lingers after, making cuts feel smooth."
+    ],
+    [
+     "Sound design",
+     "Silence, room tone and one Foley detail can frighten more than music, because the audience fills in the rest."
+    ]
+   ],
+   "stats": [
+    [
+     1968,
+     "2001’s bone-to-satellite match cut"
+    ],
+    [
+     1903,
+     "The Great Train Robbery and early continuity editing"
+    ],
+    [
+     24,
+     "frames in one second of film"
+    ],
+    [
+     7,
+     "channels in a 7.1 cinema mix"
+    ]
+   ],
+   "quote": [
+    "Editing is where",
+    "the film is",
+    "actually made."
+   ],
+   "cite": "Pinned in the cutting room",
+   "story": [
+    "Rhythm is the editor’s first tool. Short shots speed the pulse, long shots let a moment breathe, and a well-placed pause can feel louder than any explosion.",
+    "Sound carries half the experience. Dialogue, effects, music and silence are balanced in the final mix, often in a room built to sound like a cinema."
+   ],
+   "gloss": [
+    [
+     "Montage",
+     "Series of shots compressed into meaning."
+    ],
+    [
+     "Room tone",
+     "Silent recording of a location’s ambience."
+    ],
+    [
+     "Foley",
+     "Hand-made everyday sound effects."
+    ],
+    [
+     "ADR",
+     "Dialogue re-recorded after shooting."
+    ]
+   ],
+   "demo": "cuts",
+   "hue": 300,
+   "r": "0px",
+   "sep": "/",
+   "pre": "syncing the slate",
+   "badge": "CUT TO THE NEXT ·",
+   "scope": "Two shots, one new meaning",
+   "sh": [
+    "In the",
+    "edit room"
+   ],
+   "gh": [
+    "Cutting-room",
+    "terms"
+   ],
+   "nh": [
+    "Four ways",
+    "to join"
+   ],
+   "dh": [
+    "Make the",
+    "cut"
+   ],
+   "mh": [
+    "The cutting",
+    "room"
+   ],
+   "end": [
+    "Cut straight",
+    "to",
+    "{n}."
+   ],
+   "cta": "Splice in {n}",
+   "hs": "tight",
+   "tx": "diag",
+   "rv": "flip",
+   "pv": "tilt",
+   "fx": "strip",
+   "scene": "strip",
+   "pm": "grain",
+   "hud": "CUT",
+   "mt": [
+    "Cutting-room reel",
+    "Match-cut pair",
+    "Jump-cut sequence",
+    "Waveform and timeline"
+   ],
+   "q": {
+    "video": "video editing timeline",
+    "photos": [
+     "film editor workstation",
+     "audio mixing console",
+     "film strip negatives"
+    ]
+   }
+  },
+  {
+   "slug": "stunts",
+   "name": "Stunts & action",
+   "short": "Stunts",
+   "card": "Falls, fire,<br>practical action",
+   "art": "radial-gradient(circle at 50% 40%,#fff 0,#cfe0ff 25%,#8fa8ff 55%,#dfe6ff 80%)",
+   "title": "Stunts & action — Frame Atlas",
+   "lines": [
+    "Danger,",
+    "designed",
+    "on purpose."
+   ],
+   "intro": "Stunt coordination, wire work, practical effects and the people who make danger look effortless.",
+   "mq": "Wire work ✦ Falls ✦ Car chases ✦ Fight design ✦ Pyrotechnics ✦ Safety ✦",
+   "mf": "A stunt is choreography with consequences, designed so the audience feels the danger and the crew feels none of it.",
+   "notes": [
+    [
+     "Keaton’s falling house",
+     "In Steamboat Bill, Jr. (1928), a heavy house front fell around Buster Keaton, who stood on a marked spot with an open window just inches either side."
+    ],
+    [
+     "Real vehicles, real impact",
+     "Mad Max: Fury Road (2015) built working vehicles and filmed most of its chases in camera, using digital effects mainly to enhance them."
+    ],
+    [
+     "The cliff jump",
+     "For Mission: Impossible – Dead Reckoning, Tom Cruise reportedly practised thousands of motorcycle jumps and hundreds of skydives first."
+    ],
+    [
+     "Rigs and safety",
+     "Teams plan with wires, air rams, ratchets, padded landings and safety crews, so the danger lives on screen and not on set."
+    ]
+   ],
+   "stats": [
+    [
+     1928,
+     "year of Keaton’s house-front stunt"
+    ],
+    [
+     2015,
+     "Fury Road, built around practical action"
+    ],
+    [
+     2028,
+     "first planned Oscars for stunt design"
+    ],
+    [
+     3,
+     "parts to every gag: plan, rehearse, shoot"
+    ]
+   ],
+   "quote": [
+    "The best stunt",
+    "is the one",
+    "that looks easy."
+   ],
+   "cite": "Posted at the safety briefing",
+   "story": [
+    "Every stunt begins on paper. The coordinator and director agree what the audience must see, then design the safest way to deliver it.",
+    "Rehearsal is slow on purpose. Speeds, distances, cameras and medics are locked before the first take, so spontaneity belongs to the performance, not the risk."
+   ],
+   "gloss": [
+    [
+     "Stunt coordinator",
+     "Plans and supervises every stunt."
+    ],
+    [
+     "Squib",
+     "Small charge that simulates a bullet hit."
+    ],
+    [
+     "Air ram",
+     "Compressed-air device that throws a performer."
+    ],
+    [
+     "Wire removal",
+     "Digital erasing of safety rigs."
+    ]
+   ],
+   "hue": 6,
+   "r": "10px",
+   "sep": "✕",
+   "pre": "clearing the set",
+   "badge": "BRACE FOR IMPACT ·",
+   "scope": "Widescreen action needs room to land",
+   "sh": [
+    "Risk,",
+    "rehearsed"
+   ],
+   "gh": [
+    "Stunt",
+    "terms"
+   ],
+   "nh": [
+    "Four ways",
+    "to survive"
+   ],
+   "dh": [
+    "",
+    ""
+   ],
+   "mh": [
+    "Caught",
+    "on camera"
+   ],
+   "end": [
+    "Land safely",
+    "in",
+    "{n}."
+   ],
+   "cta": "Jump to {n}",
+   "hs": "upper",
+   "tx": "down",
+   "rv": "slam",
+   "pv": "pop",
+   "fx": "shake",
+   "scene": "shards",
+   "pm": "sparks",
+   "hud": "ACTION",
+   "mt": [
+    "Stunt rehearsal reel",
+    "Fall rig test",
+    "Fight choreography",
+    "Safety briefing"
+   ],
+   "q": {
+    "video": "parkour jump action",
+    "photos": [
+     "parkour jump",
+     "stunt motorcycle",
+     "martial arts action"
+    ]
+   }
+  },
+  {
+   "slug": "behind-the-scenes",
+   "name": "Behind the scenes",
+   "short": "The set",
+   "card": "Crew, sets,<br>process",
+   "art": "radial-gradient(circle at 70% 25%,#f4ffd0,transparent 45%),radial-gradient(circle at 20% 80%,#a8e6cf,transparent 55%),linear-gradient(160deg,#e3f8ec,#b9e4d4)",
+   "title": "Behind the scenes — Frame Atlas",
+   "lines": [
+    "The film",
+    "behind",
+    "the film."
+   ],
+   "intro": "The crew, the set and the process between “action” and the finished film.",
+   "mq": "Call sheet ✦ Slate ✦ Gaffers ✦ Continuity ✦ Foley ✦ Wrap ✦",
+   "mf": "Behind every effortless scene is a crowd: cameras, cables, schedules, weather and people solving small problems all day.",
+   "notes": [
+    [
+     "The call sheet",
+     "Every shooting day starts with a call sheet: who is needed, where, when, and which scenes will be filmed."
+    ],
+    [
+     "Shot out of order",
+     "Films are usually shot by location and schedule, not story order, so a script supervisor tracks continuity down to props and hair."
+    ],
+    [
+     "The slate",
+     "The clapperboard marks scene and take, and gives editors a visual and audio sync point for picture and sound."
+    ],
+    [
+     "Foley and the mix",
+     "After the shoot, Foley artists recreate footsteps, cloth and props in a studio, then sound teams blend them with dialogue and music."
+    ]
+   ],
+   "stats": [
+    [
+     3,
+     "stages: pre-production, shoot, post-production"
+    ],
+    [
+     12,
+     "hours in a typical long shooting day"
+    ],
+    [
+     100,
+     "crew on larger productions, often far more"
+    ],
+    [
+     1,
+     "slate for every single take"
+    ]
+   ],
+   "quote": [
+    "Every smooth shot",
+    "hides a hundred",
+    "quiet decisions."
+   ],
+   "cite": "Heard at the morning call",
+   "story": [
+    "A shoot day runs on a tight clock. The assistant director keeps the schedule while departments prepare the next set as the crew shoots the current one.",
+    "Lighting changes take longer than performances. One new camera angle can mean re-lighting the room, which is why coverage is planned carefully."
+   ],
+   "gloss": [
+    [
+     "Gaffer",
+     "Head of the electrical and lighting crew."
+    ],
+    [
+     "Grip",
+     "Crew who build rigs and move camera supports."
+    ],
+    [
+     "Script supervisor",
+     "Guardian of continuity."
+    ],
+    [
+     "Wrap",
+     "The end of filming for the day or the film."
+    ]
+   ],
+   "hue": 150,
+   "r": "22px",
+   "sep": "▪",
+   "pre": "calling places",
+   "badge": "GO BEHIND THE SET ·",
+   "scope": "The wide view of the whole set",
+   "sh": [
+    "A day",
+    "on set"
+   ],
+   "gh": [
+    "Crew",
+    "slang"
+   ],
+   "nh": [
+    "Four things",
+    "behind it"
+   ],
+   "dh": [
+    "",
+    ""
+   ],
+   "mh": [
+    "Set",
+    "photographs"
+   ],
+   "end": [
+    "Strike the set,",
+    "head to",
+    "{n}."
+   ],
+   "cta": "Wrap to {n}",
+   "hs": "wide",
+   "tx": "center",
+   "rv": "drop",
+   "pv": "drop",
+   "fx": "stack",
+   "scene": "clap",
+   "pm": "drift",
+   "hud": "SCENE 12",
+   "mt": [
+    "Making-of reel",
+    "Crew at the monitor",
+    "Gaffer and grips",
+    "The clapperboard"
+   ],
+   "q": {
+    "video": "film crew behind the scenes",
+    "photos": [
+     "clapperboard",
+     "film crew monitor",
+     "boom microphone"
+    ]
+   }
+  },
+  {
+   "slug": "methods",
+   "name": "Filmmaking methods",
+   "short": "Methods",
+   "card": "Light, lens,<br>edit, sound",
+   "art": "radial-gradient(circle at 30% 30%,#ffc2e0,transparent 50%),radial-gradient(circle at 75% 75%,#c8b8ff,transparent 55%),linear-gradient(135deg,#fff0f7,#e1d8ff)",
+   "title": "Filmmaking methods — Frame Atlas",
+   "lines": [
+    "Methods",
+    "that move",
+    "the room."
+   ],
+   "intro": "Lighting, camera movement, editing, colour and virtual production, explained plainly.",
+   "mq": "Lighting ✦ Lenses ✦ Editing ✦ Colour ✦ Sound ✦ Virtual production ✦",
+   "mf": "Method is how a feeling becomes repeatable: a lens, a light, a cut, a sound, placed with intent.",
+   "notes": [
+    [
+     "Three-point lighting",
+     "A key light shapes the face, a fill softens shadows and a backlight separates the subject from the background."
+    ],
+    [
+     "The Steadicam",
+     "Garrett Brown’s Steadicam let operators glide smoothly on foot. It debuted in Bound for Glory (1976) and soon defined Rocky and The Shining."
+    ],
+    [
+     "The Kuleshov effect",
+     "Early Soviet experiments showed the same face reads differently depending on the shot beside it, proving editing creates meaning."
+    ],
+    [
+     "LED volumes",
+     "Virtual production surrounds actors with real-time LED screens. The Mandalorian (2019) helped popularise the approach."
+    ]
+   ],
+   "stats": [
+    [
+     24,
+     "frames a second, the sound-era standard"
+    ],
+    [
+     1976,
+     "Steadicam’s feature debut"
+    ],
+    [
+     2000,
+     "first fully digitally graded feature, O Brother, Where Art Thou?"
+    ],
+    [
+     2019,
+     "The Mandalorian popularises LED volumes"
+    ]
+   ],
+   "quote": [
+    "Light tells you",
+    "where to feel",
+    "before words do."
+   ],
+   "cite": "From a cinematographer’s notes",
+   "story": [
+    "Methods are shared tools, not rules. Directors and cinematographers borrow, bend and break them to serve a particular feeling.",
+    "Technology keeps changing the options, from film stock to digital sensors to LED stages, but the questions stay the same: where do we look, and what do we feel?"
+   ],
+   "gloss": [
+    [
+     "Key light",
+     "Main source that shapes the subject."
+    ],
+    [
+     "Digital intermediate",
+     "Scanning and grading film as digital data."
+    ],
+    [
+     "Aspect ratio",
+     "Width-to-height proportion of the frame."
+    ],
+    [
+     "Rack focus",
+     "Shifting focus between subjects mid-shot."
+    ]
+   ],
+   "hue": 268,
+   "r": "36px",
+   "sep": "◆",
+   "pre": "loading the stock",
+   "badge": "LEARN THE CRAFT ·",
+   "scope": "Anamorphic widescreen, squeezed then restored",
+   "sh": [
+    "The craft,",
+    "unpacked"
+   ],
+   "gh": [
+    "Craft",
+    "terms"
+   ],
+   "nh": [
+    "Four tools",
+    "of the trade"
+   ],
+   "dh": [
+    "",
+    ""
+   ],
+   "mh": [
+    "Before",
+    "and after"
+   ],
+   "end": [
+    "Level up with",
+    "{n},",
+    "same craft."
+   ],
+   "cta": "Study {n}",
+   "hs": "std",
+   "tx": "right",
+   "rv": "skew",
+   "pv": "flick",
+   "fx": "grade",
+   "scene": "grid",
+   "pm": "drift",
+   "hud": "LUT",
+   "mt": [
+    "Craft reel",
+    "Raw log footage",
+    "Graded look",
+    "LUT comparison"
+   ],
+   "q": {
+    "video": "color grading video",
+    "photos": [
+     "35mm film negative",
+     "color grading monitor",
+     "analog film camera"
+    ]
+   }
+  },
+  {
+   "slug": "vfx-virtual",
+   "name": "VFX & virtual sets",
+   "short": "VFX",
+   "card": "Miniatures, mocap,<br>LED stages",
+   "art": "radial-gradient(circle at 30% 70%,#e0c8ff,transparent 55%),linear-gradient(135deg,#fff,#c9d4ff)",
+   "title": "VFX & virtual sets — Frame Atlas",
+   "lines": [
+    "Make",
+    "the impossible",
+    "visible."
+   ],
+   "intro": "Practical effects, miniatures, motion capture and LED stages, with a virtual set that follows your pointer.",
+   "mq": "Practical ✦ Miniatures ✦ Motion capture ✦ CGI ✦ LED volumes ✦",
+   "mf": "The best effect is the one built from real light, even when part of it is pixels.",
+   "notes": [
+    [
+     "Practical first",
+     "Models, makeup, animatronics and pyrotechnics still ground effects in real light and texture."
+    ],
+    [
+     "Miniatures and mattes",
+     "Before CG, painted glass and scale models extended sets; Star Wars (1977) pushed motion-control miniatures forward."
+    ],
+    [
+     "Motion capture",
+     "Actors’ movements are recorded and applied to digital characters, as with Gollum in The Lord of the Rings."
+    ],
+    [
+     "LED volumes",
+     "Screens track the camera so backgrounds shift in correct perspective, giving actors real light and context."
+    ]
+   ],
+   "stats": [
+    [
+     1977,
+     "Star Wars and the motion-control era"
+    ],
+    [
+     1982,
+     "Tron’s early computer-generated imagery"
+    ],
+    [
+     2001,
+     "Gollum’s motion-capture performance debuts"
+    ],
+    [
+     2019,
+     "The Mandalorian popularises LED volumes"
+    ]
+   ],
+   "quote": [
+    "The best effect",
+    "is the one",
+    "you never notice."
+   ],
+   "cite": "Left in a render log",
+   "story": [
+    "Visual effects start long before post-production. Supervisors join early to plan which shots need blue screens, which need real sets, and which can be solved with clever camera angles.",
+    "Virtual production changes the order of work. Environments are built first, the camera moves inside them on set, and many decisions once made months later are made in the room."
+   ],
+   "gloss": [
+    [
+     "Plate",
+     "Footage that effects are added to."
+    ],
+    [
+     "Matte painting",
+     "Painted extension of a set."
+    ],
+    [
+     "Previs",
+     "Rough animated plan of a sequence."
+    ],
+    [
+     "Compositing",
+     "Combining image layers into one shot."
+    ]
+   ],
+   "demo": "volume",
+   "hue": 178,
+   "r": "2px",
+   "sep": "+",
+   "pre": "calibrating the wall",
+   "badge": "ENTER THE VOLUME ·",
+   "scope": "A painted extension of the real set",
+   "sh": [
+    "Pixels meet",
+    "real light"
+   ],
+   "gh": [
+    "Effects",
+    "jargon"
+   ],
+   "nh": [
+    "Four tricks",
+    "of the eye"
+   ],
+   "dh": [
+    "Walk the",
+    "virtual set"
+   ],
+   "mh": [
+    "Plates",
+    "& composites"
+   ],
+   "end": [
+    "Render on to",
+    "{n},",
+    "final pass."
+   ],
+   "cta": "Composite {n}",
+   "hs": "tight",
+   "tx": "ellipse",
+   "rv": "glitch",
+   "pv": "glitch",
+   "fx": "glitch",
+   "scene": "cloud",
+   "pm": "jit",
+   "hud": "LIVE",
+   "mt": [
+    "VFX breakdown reel",
+    "Plate and composite",
+    "Motion-capture session",
+    "LED volume wall"
+   ],
+   "q": {
+    "video": "green screen studio",
+    "photos": [
+     "green screen filming",
+     "motion capture suit",
+     "led screen studio"
+    ]
+   }
+  },
+  {
+   "slug": "cinema-facts",
+   "name": "Cinema facts",
+   "short": "Facts",
+   "card": "Firsts, records,<br>oddities",
+   "art": "linear-gradient(135deg,#ffe9a8,#ffb8a0 50%,#c9d4ff)",
+   "title": "Cinema facts — Frame Atlas",
+   "lines": [
+    "Cinema,",
+    "in small",
+    "facts."
+   ],
+   "intro": "Origin stories, firsts, records and oddities from film history, in short, checkable pieces.",
+   "mq": "Firsts ✦ Records ✦ Sound ✦ Colour ✦ Oddities ✦ History ✦",
+   "mf": "Cinema is barely a century and a quarter old, and it has already invented a new grammar for how we see.",
+   "notes": [
+    [
+     "First public screening",
+     "The Lumière brothers held the first paid public film screening in Paris on 28 December 1895."
+    ],
+    [
+     "Sound arrives",
+     "The Jazz Singer (1927) made synchronised sound a business, and 24 frames a second became the standard."
+    ],
+    [
+     "One shot, 96 minutes",
+     "Russian Ark (2002) is a single unbroken Steadicam shot through the Hermitage, running about 96 minutes."
+    ],
+    [
+     "The Wilhelm scream",
+     "A stock scream first heard in Distant Drums (1951) has since turned up in countless films as an in-joke."
+    ]
+   ],
+   "stats": [
+    [
+     1895,
+     "first public screening, Paris"
+    ],
+    [
+     1927,
+     "The Jazz Singer and the sound era"
+    ],
+    [
+     96,
+     "minutes in Russian Ark’s single shot"
+    ],
+    [
+     1951,
+     "first appearance of the Wilhelm scream"
+    ]
+   ],
+   "quote": [
+    "Cinema is a",
+    "machine for",
+    "borrowed time."
+   ],
+   "cite": "Found in the archive",
+   "story": [
+    "Film history moves in jumps: a new machine arrives, audiences learn a new habit, and storytellers invent a grammar to match it.",
+    "Many early rules were accidents of technology. Even 24 frames per second came from sound and cost, not from any perfect number."
+   ],
+   "gloss": [
+    [
+     "Nickelodeon",
+     "Early US cinema charging a nickel."
+    ],
+    [
+     "Talkie",
+     "Early name for a film with sound."
+    ],
+    [
+     "Technicolor",
+     "Colour process widely used from the 1930s."
+    ],
+    [
+     "Silent era",
+     "Cinema before synchronised dialogue."
+    ]
+   ],
+   "hue": 88,
+   "r": "14px",
+   "sep": "※",
+   "pre": "winding the reel",
+   "badge": "TURN THE REEL ·",
+   "scope": "CinemaScope arrived in 1953",
+   "sh": [
+    "A short",
+    "history"
+   ],
+   "gh": [
+    "Old-school",
+    "words"
+   ],
+   "nh": [
+    "Four",
+    "firsts"
+   ],
+   "dh": [
+    "",
+    ""
+   ],
+   "mh": [
+    "The",
+    "archive"
+   ],
+   "end": [
+    "The credits roll",
+    "into",
+    "{n}."
+   ],
+   "cta": "Roll {n}",
+   "hs": "serif",
+   "tx": "corner",
+   "rv": "type",
+   "pv": "zoom",
+   "fx": "timeline",
+   "scene": "reel",
+   "pm": "grain",
+   "hud": "REEL 1",
+   "mt": [
+    "Archive reel",
+    "Early projector",
+    "Film-strip detail",
+    "Cinema auditorium"
+   ],
+   "q": {
+    "video": "vintage film projector",
+    "photos": [
+     "old cinema auditorium",
+     "film reel",
+     "vintage movie camera"
+    ]
+   }
+  }
+ ]
+}
